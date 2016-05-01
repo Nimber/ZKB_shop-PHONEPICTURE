@@ -1,0 +1,29 @@
+﻿  objdetector.cpp
+e:\opencv2.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+e:\opencv2.4\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+e:\opencv2.4\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(119): warning C4101: 'ptx' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(119): warning C4101: 'pty' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(505): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(511): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(941): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(945): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(945): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1035): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1039): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1039): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  main.cpp
+e:\opencv2.4\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+e:\opencv2.4\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+e:\opencv2.4\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+  Generating Code...
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(968): warning C4715: 'find_block' : not all control paths return a value
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1056): warning C4715: 'find_block' : not all control paths return a value
+  detector.vcxproj -> C:\Users\NiSheng\Documents\Visual Studio 2015\Projects\ZKB_shop - PHONEPICTURE\ZKB_shop\detector\Debug\detector.exe

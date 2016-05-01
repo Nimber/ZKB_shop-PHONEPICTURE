@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\main.cpp(261): warning C4102: 'E2' : unreferenced label
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\main.cpp(65): warning C4101: 'temp_int' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\main.cpp(78): warning C4101: 'current_obj' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\main.cpp(597): warning C4101: 'temp' : unreferenced local variable
+  objdetector.cpp
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(119): warning C4101: 'ptx' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(119): warning C4101: 'pty' : unreferenced local variable
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(505): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(511): warning C4018: '<' : signed/unsigned mismatch
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(941): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(945): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(945): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1035): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1039): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1039): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(968): warning C4715: 'find_block' : not all control paths return a value
+c:\users\nisheng\documents\visual studio 2015\projects\zkb_shop - phonepicture\zkb_shop\detector\detector\objdetector.cpp(1056): warning C4715: 'find_block' : not all control paths return a value
+  ZKB_shop.vcxproj -> C:\Users\NiSheng\Documents\Visual Studio 2015\Projects\ZKB_shop - PHONEPICTURE\Debug\ZKB_shop.exe

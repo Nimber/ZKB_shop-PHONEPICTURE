@@ -1,0 +1,35 @@
+﻿  objdetector.cpp
+detector\detector\objdetector.cpp(108): warning C4305: 'initializing': truncation from 'double' to 'float'
+detector\detector\objdetector.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(171): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(178): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+detector\detector\objdetector.cpp(179): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+detector\detector\objdetector.cpp(181): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(182): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(185): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'float'
+detector\detector\objdetector.cpp(271): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(272): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(273): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(274): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(278): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(286): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(326): warning C4101: 'ptx': unreferenced local variable
+detector\detector\objdetector.cpp(326): warning C4101: 'pty': unreferenced local variable
+detector\detector\objdetector.cpp(802): warning C4101: 'notdestination': unreferenced local variable
+detector\detector\objdetector.cpp(1125): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+detector\detector\objdetector.cpp(1125): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(1127): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+detector\detector\objdetector.cpp(1127): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(1129): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+detector\detector\objdetector.cpp(1129): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+detector\detector\objdetector.cpp(1149): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+detector\detector\objdetector.cpp(1150): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 256 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ZKB_shop.vcxproj -> C:\Users\NiSheng\Documents\Visual Studio 2015\Projects\ZKB_shop\x64\Release\ZKB_shop.exe

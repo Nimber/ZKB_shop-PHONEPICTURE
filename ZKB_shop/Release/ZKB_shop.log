@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\opencv2.4\opencv\build\include\opencv2/legacy/blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+E:\opencv2.4\opencv\build\include\opencv2/legacy/blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+main.cpp(65): warning C4101: 'temp_int' : unreferenced local variable
+main.cpp(256): warning C4101: 'temp' : unreferenced local variable
+main.cpp(304): warning C4101: 'temp_int' : unreferenced local variable
+main.cpp(405): warning C4101: 'temp' : unreferenced local variable
+main.cpp(492): warning C4101: 'current_case' : unreferenced local variable
+main.cpp(495): warning C4101: 'temp_char_no' : unreferenced local variable
+main.cpp(487): warning C4101: 'current_obj' : unreferenced local variable
+  Generating code
+  Finished generating code
+  ZKB_shop.vcxproj -> C:\Users\NiSheng\Documents\Visual Studio 2015\Projects\ZKB_shop\Release\ZKB_shop.exe
